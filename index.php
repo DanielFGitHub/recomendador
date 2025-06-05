@@ -82,7 +82,7 @@ if (isset($_GET['genero']) && isset($_GET['edad'])) {
     <h1>Recomendador de Peliculas - Daniel Fonseca Torres</h1>
     <h2>Bienvenido al recomendador de peliculas.</h2>
     <p><b>
-        Para hacer poser darle la mejor atención en su visita le solicitamos que ingrese 
+        Para hacer poder darle la mejor atención en su visita le solicitamos que ingrese 
         su edad y seleccione el genero de su preferencia, gracias.
     </b></p>
     <div class="container">
